@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Lobster&family=New+Rocker&family=Poor+Story&display=swap');
+
+#start h1{
+    font-family: 'lobster', sans-serif;
+}
+
+#parted {
+    background: 	#FFE4C4;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+
+#start {
+    background:  #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#one_link_news {
+    background: yellow;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#two_link_files {
+    background: yellow;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+#three_link_who {
+    background: yellow;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+#four_link_telega {
+    background: yellow;
+    padding: 10px;
+    margin-bottom: 25px;
+}
